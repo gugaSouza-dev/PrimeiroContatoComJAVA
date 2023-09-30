@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="77bc674e-5cd8-4a1c-9d2e-f6b87fd245bc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/EstruturaDeDesisao/Exemplo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstruturaDeDesisao/ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstruturaDeDesisao/ex5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstruturaDeRepeticao/Exemplo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstruturaDeRepeticao/Exemplo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstruturaDeRepeticao/Exercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstruturaDeRepeticao/ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstruturaDeRepeticao/ex2.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2W2sUcfYe4rHbMMPsIRSu4LuSXx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "preferences.keymap"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.ex2">
+    <configuration name="Exemplo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EstruturaDeRepeticao.Exemplo2" />
+      <module name="JAVA-aula1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EstruturaDeRepeticao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exemplo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EstruturaDeRepeticao.Exemplo3" />
+      <module name="JAVA-aula1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EstruturaDeRepeticao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EstruturaDeRepeticao.Exercicio1" />
+      <module name="JAVA-aula1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EstruturaDeRepeticao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EstruturaDeRepeticao.ex1" />
+      <module name="JAVA-aula1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EstruturaDeRepeticao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EstruturaDeRepeticao.ex2" />
+      <module name="JAVA-aula1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EstruturaDeRepeticao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ex2" />
+        <item itemvalue="Application.ex1" />
+        <item itemvalue="Application.Exemplo3" />
+        <item itemvalue="Application.Exemplo2" />
+        <item itemvalue="Application.Exercicio1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77bc674e-5cd8-4a1c-9d2e-f6b87fd245bc" name="Changes" comment="" />
+      <created>1695942026216</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695942026216</updated>
+    </task>
+    <servers />
+  </component>
+</project>
